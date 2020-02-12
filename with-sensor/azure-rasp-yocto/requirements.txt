@@ -1,0 +1,13 @@
+azure-iot-device==2.0.0
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+janus==0.4.0
+paho-mqtt==1.5.0
+requests==2.22.0
+requests-unixsocket==0.2.0
+simplejson==3.17.0
+six==1.14.0
+transitions==0.7.2
+urllib3==1.25.8
+yoctopuce==1.10.39263
