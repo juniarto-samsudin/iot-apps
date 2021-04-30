@@ -9,5 +9,5 @@ requests-unixsocket==0.2.0
 simplejson==3.16.0
 six==1.13.0
 transitions==0.7.1
-urllib3==1.25.7
+urllib3==1.25.8
 yoctopuce==1.10.39263
